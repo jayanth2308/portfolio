@@ -20,28 +20,22 @@ import threejs from "./tech/threejs.svg";
 import MachineLearning from "./tech/ml.jpg"
 
 
-import internship_studio from "./company/internship_studio.png";
-import internshala from "./company/internshala.png";
-import onestop from "./company/onestop.jpg";
-import amclub from "./company/5amclub.png";
 
-import ecommerce from "./ecommerce.png";
-import todolist from "./todolist.png";
+import devtown from "./company/devtown.png";
+import personifwy from "./company/personifwy.jpeg";
+import wibi from "./company/wibi.jpeg";
+
 import codepen from "./codepen.png";
-
-import simon from "./simon.png";
 import drumkit from "./drumkit.png";
-import data from "./data.png";
-
+import justchat from "./justchat.jpeg";
+import Travelnest from "./Travelnest.jpeg"
 
 
 export {
-  simon,
+  
   drumkit,
-  data,
   logo,
   backend,
-  amclub,
   creator,
   web,
   github,
@@ -58,11 +52,11 @@ export {
   tailwind,
   typescript,
   threejs,
-  internship_studio,
-  internshala,
   MachineLearning,
   codepen,
-  ecommerce,
-  todolist,
-  onestop,
+  justchat,
+  Travelnest,
+  wibi,
+  devtown,
+  personifwy,
 };

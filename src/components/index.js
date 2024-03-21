@@ -4,7 +4,8 @@ import Navbar from './Navbar';
 import About from './About';
 import Tech from './Tech';
 import Experience from './Experience';
-import Works from './Works';
+import Resume from './Resume';
+import Projects from './Projects';
 import Contact from './Contact';
 
 export {
@@ -13,7 +14,8 @@ export {
   About,
   Tech,
   Experience,
-  Works,
+  Resume,
+  Projects,
   Contact,
   EarthCanvas, 
   BallCanvas, 

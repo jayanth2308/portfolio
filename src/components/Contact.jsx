@@ -32,16 +32,16 @@ const Contact = () => {
     setLoading(true);
 
     emailjs
-      .send('service_ujyehg9','template_mhqnytf',
+      .send('service_xz349fc','template_ser8zsf',
         
         {
           from_name: form.name,
-          to_name: "Kavya Sai Isheka Yakkala",
+          to_name: "Jayanth komtham",
           from_email: form.email,
-          to_email: "kavyasaiisheka.y20@iiits.in",
+          to_email: "jayanth.k20@iiits.in",
           message: form.message,
         },
-        '3_shl3pajsfU1g7Hs'
+        'FxPbrMCiYHsgaMM9V'
       )
       .then(
         () => {
