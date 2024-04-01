@@ -193,9 +193,9 @@ import {
       source_code_link: "https://github.com/jayanth2308/justchat",
     },
     {
-      name: "Blog",
+      name: "Ecommerce",
       description:
-        "Full-stack blog website, empowering users to effortlessly create, edit, and delete their blog posts, complemented by user authentication services for enhanced security.",
+        "Full-stack ecommerce website, empowering users to effortlessly browse, purchase, and manage their orders, complemented by user authentication services for enhanced security.",
       tags: [
         {
           name: "React.js, Node.js, Express.js, MongoDB, WebSockets",
@@ -207,7 +207,7 @@ import {
         },*/
       ],
       image: codepen,
-      source_code_link: "https://github.com/jayanth2308/Blog",
+      source_code_link: "https://github.com/jayanth2308/Ecommerce.git",
     },
   ];
   
